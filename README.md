@@ -6,7 +6,7 @@
 
 ### `$ whoami`
 
-**CS Student · Frontend Developer · Sri Lanka** 🇱🇰
+**CS Student · Full-Stack Developer · Sri Lanka** 🇱🇰
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=React+%26+TypeScript+enthusiast;Full-stack+curious+%F0%9F%94%8D;Building+things+that+matter;Open+to+internships+%26+collabs)](https://git.io/typing-svg)
 

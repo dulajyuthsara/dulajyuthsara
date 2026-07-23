@@ -8,10 +8,60 @@ dulaj@github ~ $ neofetch
 
 <table>
 <tr>
-<td width="220" valign="top" align="center">
+<td width="240" valign="top">
 
-<!-- Upload your photo to your repo root as: assets/photo.png -->
-<img src="assets/photo.png" width="160" style="border-radius:50%;border:2px solid #7F77DD" />
+```
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@%%#MM##%@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@#o+-:,......,:-=oM@@@@@@@@@@@@@
+@@@@@@@@@@@@M+:..................:=O%@@@@@@@@@
+@@@@@@@@@#o:::......................,+M@@@@@@@
+@@@@@@@#o,-,:-.........................*%@@@@@
+@@@@@%=...:.:-.........................~*O%@@@
+@@@@O, ........,*OHH*:.................~*+*M@@
+@@%~ .........:%@@@@@@~................~***+O@
+@#: ..........M@@@@@@@%=...............~*+***o
+H. ......... *@@@@M#%#@* ..............~*++***
+............ =@M%H-++*o,...............~*++***
+..............#M+o-,-~  ...............~+++***
+..............M@Mo~~+o.................~++++**
+..............+@HoM++=.................-++++++
+.............. ~O~O#+,  ...............-++++++
+...... ...... ,##~** .:~...............-++++++
+....   ......+#@@#O#:.H@~ .............-++++++
+...      ...H@@@@@%@H *O=..   .........-++++++
+..       . *@@@@@@@@@o=~=: .  .........-+=++++
+..      . ,%@@@@@@@@@@o~++..  .........-+=++++
+..      . =@@@@@@@@@@#=~O+ . .. .......-+=++++
+.       . O@@@@@@@@@#++oM+.     .......-+==+++
+.       ..#@@@@@@@@M=*@H*O, .    ......-+==+++
+       . -@@@@@@@@M~+%@H-M: .     .....-====++
+       . :@@@@@@@O~+#@@H *: .     .....-=====+
+       . .%@@@@@O~+#@@@M. .       .....-=====+
+        . M@@@@@O+M@@@@# . ..     .....-=====+
+        . O@@@@@HM@@@@@%.. . .    .....-======
+        . *@@@@@@@@@@@@M  .,, .     .. -=====+
+        . -@@@@@@@@@@@@O==:~+~..   ... :=====+
+        ...#@@@@@@@@@@@H%*o#%- .    ...:======
+         . M@@@@@@@@@@@@#H==: .     ...:======
+        . ,@@@@@@@@@@@@#,.   .      ...:======
+        . :@@@@@@@@@@@@- ....      ....:======
+        . ~@@@@@@@@@@@@:..       ......:======
+        . =@@@@@@@@@@@@- .       ......:======
+        . =@@@@@@@@@@@@* .  .  ........:======
+   .......~@@@@@@@@@@@@O . .. .........:======
+.         :@@@@@@@@@@@@o...............:======
+---:::::,,-M~-+M@@@@@@@O .       ......:======
+~~~~~~~~~-=o:,,,=%@@@@@%::::,,,,.......:======
+~~~~~-~~~-+O::,,,o@#HO%O~~~~~~~~~~~~~~~~======
+~~~~~~~~~-++::,,,OM*~-*~-~~~~~~~~~~~~=========
+~~~~~~~~~~---:,,,OO=----~~~~~~~~~~~~~~~=======
+~~~~~~~~~~~~~::,,oo----~~~~~~~~~~~~~~~========
+~~~~~~~~~~~~~-:,,o+--~=-~~~~~~~~~~~~~~========
+~~~~~~~~~~~~~-:,:*~-:==-~~~~~~~~~~~~~~========
+~~~~~~~~~~~~~-:,:+~:--~~~~~~~~~~~~~~~~~~======
+```
 
 **dulaj yuthsara**
 `@dulajyuthsara`
@@ -22,22 +72,22 @@ dulaj@github ~ $ neofetch
 <td valign="top">
 
 ```yaml
-name        : Dulaj Yuthsara
-location    : Colombo, Sri Lanka 🇱🇰
-role        : CS student + frontend dev
-status      : ◉ open to internships & collabs
-uptime      : since Feb 5, 2025
-shell       : zsh 5.9 + oh-my-zsh
-editor      : VS Code (+ neovim, sometimes)
+OS        : macOS Sequoia 15 / Windows 11
+Location  : Colombo, Sri Lanka 🇱🇰
+Role      : CS student + frontend dev
+Status    : ◉ open to internships & collabs
+Uptime    : since Feb 5, 2025
+Shell     : zsh 5.9 + oh-my-zsh
+Editor    : VS Code
 ```
 
 ```yaml
-learning    : Spring Boot · TypeScript patterns
-building    : React + Supabase side projects
-exploring   : AI integrations + full-stack arch
-goal        : frontend / full-stack internship 2025
-vibe        : clean code · fast UIs · coffee ☕
-contact     : dulajyuthsara22@gmail.com
+Learning  : Spring Boot · TypeScript patterns
+Building  : React + Supabase side projects
+Exploring : AI integrations + full-stack arch
+Goal      : frontend / full-stack internship 2025
+Vibe      : clean code · fast UIs · coffee ☕
+Contact   : dulajyuthsara22@gmail.com
 ```
 
 **Languages.Main**

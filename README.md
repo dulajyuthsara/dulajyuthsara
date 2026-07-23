@@ -8,63 +8,68 @@ dulaj@github ~ $ neofetch
 
 <table>
 <tr>
-<td width="240" valign="top">
+<td width="300" valign="top">
 
 ```
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@%%#MM##%@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@#o+-:,......,:-=oM@@@@@@@@@@@@@
-@@@@@@@@@@@@M+:..................:=O%@@@@@@@@@
-@@@@@@@@@#o:::......................,+M@@@@@@@
-@@@@@@@#o,-,:-.........................*%@@@@@
-@@@@@%=...:.:-.........................~*O%@@@
-@@@@O, ........,*OHH*:.................~*+*M@@
-@@%~ .........:%@@@@@@~................~***+O@
-@#: ..........M@@@@@@@%=...............~*+***o
-H. ......... *@@@@M#%#@* ..............~*++***
-............ =@M%H-++*o,...............~*++***
-..............#M+o-,-~  ...............~+++***
-..............M@Mo~~+o.................~++++**
-..............+@HoM++=.................-++++++
-.............. ~O~O#+,  ...............-++++++
-...... ...... ,##~** .:~...............-++++++
-....   ......+#@@#O#:.H@~ .............-++++++
-...      ...H@@@@@%@H *O=..   .........-++++++
-..       . *@@@@@@@@@o=~=: .  .........-+=++++
-..      . ,%@@@@@@@@@@o~++..  .........-+=++++
-..      . =@@@@@@@@@@#=~O+ . .. .......-+=++++
-.       . O@@@@@@@@@#++oM+.     .......-+==+++
-.       ..#@@@@@@@@M=*@H*O, .    ......-+==+++
-       . -@@@@@@@@M~+%@H-M: .     .....-====++
-       . :@@@@@@@O~+#@@H *: .     .....-=====+
-       . .%@@@@@O~+#@@@M. .       .....-=====+
-        . M@@@@@O+M@@@@# . ..     .....-=====+
-        . O@@@@@HM@@@@@%.. . .    .....-======
-        . *@@@@@@@@@@@@M  .,, .     .. -=====+
-        . -@@@@@@@@@@@@O==:~+~..   ... :=====+
-        ...#@@@@@@@@@@@H%*o#%- .    ...:======
-         . M@@@@@@@@@@@@#H==: .     ...:======
-        . ,@@@@@@@@@@@@#,.   .      ...:======
-        . :@@@@@@@@@@@@- ....      ....:======
-        . ~@@@@@@@@@@@@:..       ......:======
-        . =@@@@@@@@@@@@- .       ......:======
-        . =@@@@@@@@@@@@* .  .  ........:======
-   .......~@@@@@@@@@@@@O . .. .........:======
-.         :@@@@@@@@@@@@o...............:======
----:::::,,-M~-+M@@@@@@@O .       ......:======
-~~~~~~~~~-=o:,,,=%@@@@@%::::,,,,.......:======
-~~~~~-~~~-+O::,,,o@#HO%O~~~~~~~~~~~~~~~~======
-~~~~~~~~~-++::,,,OM*~-*~-~~~~~~~~~~~~=========
-~~~~~~~~~~---:,,,OO=----~~~~~~~~~~~~~~~=======
-~~~~~~~~~~~~~::,,oo----~~~~~~~~~~~~~~~========
-~~~~~~~~~~~~~-:,,o+--~=-~~~~~~~~~~~~~~========
-~~~~~~~~~~~~~-:,:*~-:==-~~~~~~~~~~~~~~========
-~~~~~~~~~~~~~-:,:+~:--~~~~~~~~~~~~~~~~~~======
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@###%@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@*wn}_<l;;l<-)xd#@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@az_,              l[OM@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@q),>  .,,...........   ;(h@@@@@@@@@@@
+@@@@@@@@@@@@@w}.>.+,.    ..        ...  ;ZW@@@@@@@@@
+@@@@@@@@@@@o[  .,.l. l~+<  .          ..;{(q@@@@@@@@
+@@@@@@@@@@O: ..     u#@@%q> .         . l))1vW@@@@@@
+@@@@@@@@@|  .    . {@@@@@@b>..        . ;11))|h@@@@@
+@@@@@@@%[ ..    ..iM@@MdWk%} .        . ;11)())b@@@@
+@@@@@@%? .      . :Mhkn>)1/:..        . ;111))()d@@@
+@@@@@@} .        . u*((li[. .         . ;{{1)))()k@@
+@@@@@t .         . 1@pu}?/:..         . ;}{{1))((|*@
+@@@@q ..         ..:ux/dv-  .         . ;}}{11))((u%
+@@@Ml..          .  tO_z?.:; .        . ;}}{{11))|)0
+@@@| .          . lv%#xm[ O*:..       . :[}}{{1))(||
+@@a...         ..~*@#MWWW,|O~ .       . :[[}{{{1))(|
+@@1 .          ..k@%%%%%#w}?].        . :[[}}{{{1)((
+@W,..         . ?@%@@%@@%@u+n> .      . :[[}}}{{11)(
+@x .          ..x@#@@@@%@w?|Zi .      . :][[}}}{{1))
+@-..          . k@M#@@@@m[pmO_ .      . :]][[}}}{1))
+*: .         . <%@#W#@@m?0@ut( .      . :]][[[}{{1))
+0 .          . +@@#W%#z?x@@n>) .      . :?]][[[}}{1)
+/ .          . :W@@%@x-v%@@x ,        . :?]][[[[}{1)
+] .           . k@@@@xtM@%@0..        . :?]]][[[}{11
+~ .           . m@@@@bW@@@@w ..       . :-?]][[[}{11
+l .           . n@@@@@@%@@@v;;l<:.    . ,??]][[[[{11
+l .           . -@@@@@@%@@M0m[nb? .   . ,-??][[[}{{1
+l .           . :W@@@@#@@@%Whuv)..    . ,---]]][[{{1
+< .           . ~@@@@%%%#%@pi.        . ,---?]][[}{{
+- .           . {@@%#@@#M#M< ...        ,---?]][[}{{
+) .           . /@@%@@@@%@%l..          ,_--?]][[}{{
+Z .           . /@@@%%%%#%@+ .          ,_--?]][[}{{
+h.............. /@%%%%@@@%@( .          ,_--?]][[}{{
+@~ .          . 1@@@@%@@%%@|.......     ,_--]]][[}{{
+@x>~<>iill;;:::,[w]/k%#%@%@/ .          ,_--?]][[}{{
+@o____++++~~~~~i}{,,,1WM%@@w;l;:::,,,...,_--?]][[}{{
+@@(<_++~~~~~<<<i/)::,,mo0ukt<+~~+~~~+++++---?]][[}}{
+@@k~_+++~~<~<<<>]-;:,;wv]<[~<~~~~~+++__-----?]]][}{1
+@@@|~_++~~~~~<<~>~<:,:O1~>i<<~~~~++++___---??]]][}{{
+@@@*++~~~~~~~<<<<++;,;v]<<-<<~~~~++++__----??]][[[]t
+@@@@O>+~~~~<~<<<<+_l,>t_i?]>~~~~~~~+___----??]][?|p%
+@@@@@(>+~~~~~<<<<++i,>)+i+~<<~~~~~~+_____---?][?/%@#
+@@@@@#]<+~~~~<<<<+~>;i1<+<<~~~~~~~+++____----]]?a@kh
+@@@@@@*->+~~~~<<<~~i;;]?_~~~~~~~~~+++_____---??]#@pW
+@@@@@@@o->~~~~<<~~<i:;}<:<<<<<<~~~~+____-_--??+v@@aq
+@@@@@@@@W}i~~~<~~~>><i_~<~<<<<<~~~~+____--???_Z@@@@@
+@@@@@@@@@%ti<+~~~~~+~)x]]<<<<<<~~~~~++___-__/b@@@@@@
+@@@@@@@@@@@w_i<~++>_)wZ[<<<<~<~~~~+_--??[{tp%@@@@@@@
+@@@@@@@@@@@@Mn_+?__+_ZOn|n|/(/tnuxO0dbdbhM@@@@@@@@@@
+@@@@@@@@@@@@@@Wq0_l:}Z?~p#M%M%@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@m{l}/_id#MMMWW**oaaoW#@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@*dZ1_wbddddbbka*#@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@%%#MMM##%@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ```
 
-**dulaj yuthsara**
-`@dulajyuthsara`
+**dulaj yuthsara** · `@dulajyuthsara`
 
 ![](https://img.shields.io/badge/◉-open%20to%20work-22c55e?style=flat-square&labelColor=0d1117)
 
@@ -72,13 +77,14 @@ H. ......... *@@@@M#%#@* ..............~*++***
 <td valign="top">
 
 ```yaml
-OS        : macOS Sequoia 15 / Windows 11
+OS        : Windows 11 · macOS
 Location  : Colombo, Sri Lanka 🇱🇰
 Role      : CS student + frontend dev
 Status    : ◉ open to internships & collabs
 Uptime    : since Feb 5, 2025
 Shell     : zsh 5.9 + oh-my-zsh
 Editor    : VS Code
+Contact   : dulajyuthsara22@gmail.com
 ```
 
 ```yaml
@@ -87,27 +93,15 @@ Building  : React + Supabase side projects
 Exploring : AI integrations + full-stack arch
 Goal      : frontend / full-stack internship 2025
 Vibe      : clean code · fast UIs · coffee ☕
-Contact   : dulajyuthsara22@gmail.com
 ```
 
 **Languages.Main**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Languages.Also**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
 </tr>
@@ -128,10 +122,8 @@ Contact   : dulajyuthsara22@gmail.com
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-dulajyuthsara22%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dulajyuthsara22@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dulaj--yuthsara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulaj-yuthsara-9b0a0b338/)
-&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-dulajyuthsara22%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dulajyuthsara22@gmail.com) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dulaj--yuthsara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulaj-yuthsara-9b0a0b338/) &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-dulajyuthsara-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dulajyuthsara)
 
 ```

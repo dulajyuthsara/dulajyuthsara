@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:0D1117&height=180&section=header&text=DULAJ%20YUTHSARA&fontSize=50&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=CS%20Student%20%C2%B7%20Frontend%20Developer&descAlignY=62&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:0D1117&height=180&section=header&text=DULAJ%20YUTHSARA&fontSize=50&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=CS%20Student%20%C2%B7%20Full-Stack%20Developer&descAlignY=62&descSize=18" width="100%" />
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rocket.gif" width="70" />
 
